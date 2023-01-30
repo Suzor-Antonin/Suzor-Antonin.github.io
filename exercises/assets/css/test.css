@@ -1,0 +1,42 @@
+/*  ============= WEB BROWSER RESETS ============ */
+* { margin: 0; padding: 0; border: none }
+*, *::before, *::after { box-sizing: border-box }
+html { height: 100%; font-size: 100%; font: inherit; vertical-align: baseline;
+scroll-behavior: smooth; scroll-padding-top: 20px }
+body { max-width: 1600px; line-height: 1.5; margin-left: auto; margin-right: auto; 
+min-height: 100vh; text-rendering: optimizeSpeed }  
+img { width: 100%; height: auto; display: block }
+h1, h2, h3, h4, h5 { width: 100% }
+input, button, textarea, select { font: inherit }
+/* ================= ENDS ================ */
+
+body {
+    background-color: #e0ca79;
+    padding: 2% 5% 2% 5%;
+    text-align: justify;
+    color: #000000;
+}
+
+
+p {
+    margin-bottom: 10px;
+    padding: 0px 5px 0px 5px; 
+}
+
+h1, h2, h3, h4, h5 {
+    background-color: #265c6e;
+    color: #ffffff;
+    margin-bottom: 2px;
+    padding: 0px 2px 0px 2px; 
+    text-align: left;
+}
+
+.code {
+    padding: 0px 5px 0px 5px; 
+    margin: 0px 5px 0px 5px; 
+    background-color: #0a152e;
+    color: #c9d5f2;
+}
+
+/* test.css */
+
