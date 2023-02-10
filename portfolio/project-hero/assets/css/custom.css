@@ -1,0 +1,55 @@
+/* Add custom style here  */
+
+header.theme-light { background-color: var(--blue-700) }
+
+#hero-3, #hero-4, #hero-5, #hero-6, #hero-7, #hero-8 { margin-top: 80px }
+
+#hero-3 header.theme-dark h1 {
+       font-family: 'Abril Fatface', serif;
+       font-size: calc(48px + (100 - 48) * ((100vw - 320px)/ (1600 - 320)));
+}
+
+#hero-5 header.theme-dark .badge { color: var(--white-000) }
+#hero-5 header.theme-dark .badge { background-color: var(--black-000) }
+#hero-5 header.theme-dark h1 { color: var(--green-400) }
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):visited { color: var(--white-000) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):focus,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):hover,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):active { color: var(--green-400) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):focus,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):hover,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):active { background-color: var(--black-000) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):visited { border-color: var(--white-000) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):focus,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):hover,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(1):active { border-color: var(--green-400) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):visited { color: var(--black-000) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):focus,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):hover,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):active { color: var(--black-000) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):visited { background-color: var(--green-400) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):focus,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):hover,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):active { background-color: var(--green-500) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):visited { border-color: var(--green-400) }
+
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):focus,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):hover,
+#hero-5 header.theme-dark .container-btn a.btn:nth-child(2):active { border-color: var(--green-500) }
+
+
+
