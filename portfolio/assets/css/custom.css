@@ -1,0 +1,49 @@
+nav.theme-dark ul.links-wrapper li a:link,
+nav.theme-dark ul.links-wrapper li a:visited { color: var(--trend-600) }
+nav.theme-dark ul.links-wrapper li a:focus,
+nav.theme-dark ul.links-wrapper li a:hover,
+nav.theme-dark ul.links-wrapper li a:active { color: var(--trend-600) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--trend-050) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { border-color: var(--trend-600) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { border-color: var(--trend-050) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { background-color: var(--trend-050) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { background-color: var(--trend-600) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { color: var(--trend-600) }
+nav.theme-dark a#btn-cta:focus,
+nav.theme-dark a#btn-cta:hover,
+nav.theme-dark a#btn-cta:active { color: var(--trend-050) }
+
+
+header.theme-dark { background-color: var(--trend-600) }
+header.theme-dark .badge { background-color: var(--amber-100) }
+header.theme-dark h1 { color: var(--amber-100) }
+header.theme-dark h2 { color: var(--amber-100) }
+header.theme-dark .badge { color: var(--trend-600) }
+
+header.theme-dark .container-btn a.btn:link,
+header.theme-dark .container-btn a.btn:visited { color: var(--amber-100) }
+
+header.theme-dark .container-btn a.btn:link,
+header.theme-dark .container-btn a.btn:visited { border-color: var(--amber-100) }
+
+header.theme-dark .container-btn a.btn:focus,
+header.theme-dark .container-btn a.btn:hover,
+header.theme-dark .container-btn a.btn:active { background-color: var(--amber-100) }
+
+header.theme-dark .container-btn a.btn:focus,
+header.theme-dark .container-btn a.btn:hover,
+header.theme-dark .container-btn a.btn:active { border-color: var(--trend-600) }
+
+header.theme-dark .container-btn a.btn:focus,
+header.theme-dark .container-btn a.btn:hover,
+header.theme-dark .container-btn a.btn:active { color: var(--trend-600) }
+
+
